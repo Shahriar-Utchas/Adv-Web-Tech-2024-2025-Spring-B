@@ -6,4 +6,3 @@ if (age >= 18) {
 else {
     age -= 10;
 }
-//# sourceMappingURL=index.js.map
